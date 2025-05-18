@@ -26,7 +26,7 @@ A desktop scientific calculator built with Python and Tkinter, featuring both mo
 
 Here’s what the calculator looks like:
 
-![Calculator](calculator.png)
+![Calculator](Calculator.png)
 
 ## Installation
 

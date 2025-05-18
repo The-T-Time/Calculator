@@ -22,14 +22,16 @@ A desktop scientific calculator built with Python and Tkinter, featuring both mo
   - `L`: Log base 10
   - `N`: Natural log (ln)
 
+## Screenshot
+
+Here’s what the calculator looks like:
+
+![Calculator](calculator.png)
+
 ## Installation
 
 1. Ensure you have Python 3.7+ installed.
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/scientific-calculator.git
-   cd scientific-calculator
-   ```
+2. Clone the repository.
 3. Install Tkinter.
 
 ## Contributing
@@ -38,3 +40,7 @@ Contributions are welcome! Feel free to:
 
 - Open issues for bugs or feature requests.
 - Submit pull requests with enhancements or fixes.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
